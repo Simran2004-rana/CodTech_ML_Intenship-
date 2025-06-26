@@ -17,4 +17,5 @@ DESCRIPTION : In this task, we implemented a Decision Tree Classifier using Pyth
 And visualizing a decision tree for better interpretability,This task laid the foundation for understanding supervised machine learning, classification models, and decision-making processes in ML. It also helped build confidence in using scikit-learn tools for real-world problems. The simplicity and clarity of the Iris dataset made it ideal for learning and demonstration purposes.
 
 OUTPUT:![Image](https://github.com/user-attachments/assets/33e9cfce-ef6d-48ec-aa66-d2011545c400)
+
  
